@@ -27,6 +27,6 @@ void mahasiswa::printAll() {
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    mahasiswa mhs1("Lia Kurnia");
 }
 
