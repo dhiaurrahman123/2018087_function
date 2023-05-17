@@ -30,5 +30,8 @@ int main()
     mahasiswa mhs1("Lia Kurnia");
     mahasiswa mhs2("Astorni");
     mhs2.nim = 10;
+    mahasiswa mhs3("Andi Kruwiawan");
+    mhs3.nim = 30;
+
 }
 
