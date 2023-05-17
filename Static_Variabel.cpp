@@ -32,6 +32,9 @@ int main()
     mhs2.nim = 10;
     mahasiswa mhs3("Andi Kruwiawan");
     mhs3.nim = 30;
+    mahasiswa mhs4("Joko Pprba");
+
+    mhs1.printAll();
 
 }
 
